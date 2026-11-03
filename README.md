@@ -10,6 +10,8 @@ Meus projetos conectam desenvolvimento de software, organização de informaçõ
 
 ### Aprova T.I. — Plataforma de estudos para concursos
 
+[Repositório e demonstração do núcleo de XP](https://github.com/CKlisman/aprova-ti) · [Testes automáticos](https://github.com/CKlisman/aprova-ti/actions)
+
 Projeto pessoal que nasceu da minha necessidade de manter o foco nos estudos para concursos de Tecnologia da Informação. Durante o desenvolvimento, percebi que a ferramenta também poderia apoiar outras pessoas.
 
 - Questões por disciplina, simulados com gabarito comentado e missões de estudo.
@@ -23,6 +25,8 @@ Projeto pessoal que nasceu da minha necessidade de manter o foco nos estudos par
 
 ### AGEFIS + Educação — Dashboard executivo
 
+[Código, imagem e instruções de execução](https://github.com/CKlisman/agefis-educacao) · [Testes automáticos](https://github.com/CKlisman/agefis-educacao/actions)
+
 Painel para organizar e apresentar indicadores educacionais agregados no contexto da AGEFIS, em Fortaleza.
 
 - Consolidação de respostas, tratamento de duplicidades e padronização de instituições.
@@ -33,6 +37,8 @@ Painel para organizar e apresentar indicadores educacionais agregados no context
 **Tecnologias:** JavaScript, HTML, CSS e JSON.
 
 ### BOT Fiscalize — Monitoramento de chamados
+
+[Repositório e demonstração de captura](https://github.com/CKlisman/bot-fiscalize) · [Testes automáticos](https://github.com/CKlisman/bot-fiscalize/actions)
 
 Solução de apoio ao acompanhamento operacional de chamados, com aplicação desktop para Windows e versão móvel para Android.
 
@@ -61,6 +67,6 @@ A execução em segundo plano no Android depende das permissões e restrições 
 - Documento decisões, aprendizados e limitações dos projetos.
 - Uso o Codex como apoio e reviso os resultados conforme o contexto de cada solução.
 
-Este perfil apresenta os projetos identificados nos meus registros de desenvolvimento. O código-fonte de cada aplicação ainda não está publicado neste perfil.
+Os três repositórios incluem código executável, instruções, testes e imagens. O dashboard publica sua versão estática com dados agregados. Aprova T.I. e BOT Fiscalize publicam amostras dos módulos reais, com demonstrações isoladas; as aplicações completas e suas integrações privadas não fazem parte dessas amostras.
 
 [Perfil no GitHub](https://github.com/CKlisman) · [Aprova T.I.](https://aprovatiapp.com.br/)
