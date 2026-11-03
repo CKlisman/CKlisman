@@ -1,0 +1,79 @@
+# Olá, sou Caio Klisman
+
+Atuo em Tecnologia da Informação, com experiência em suporte técnico, automação de rotinas e desenvolvimento de soluções digitais. Tenho formação na área de Análise e Desenvolvimento de Sistemas e busco transformar necessidades do dia a dia em ferramentas úteis.
+
+## Sobre meu trabalho
+
+Meus projetos conectam desenvolvimento de software, organização de informações e melhoria de processos. Participo da definição de requisitos, das decisões sobre as funcionalidades, da validação dos fluxos e da evolução das aplicações, utilizando o Codex como apoio ao desenvolvimento.
+
+## Projetos
+
+### Aprova T.I. — Plataforma de estudos para concursos
+
+Projeto pessoal que nasceu da minha necessidade de manter o foco nos estudos para concursos de Tecnologia da Informação. Durante o desenvolvimento, percebi que a ferramenta também poderia apoiar outras pessoas.
+
+- Questões por disciplina, simulados com gabarito comentado e missões de estudo.
+- Metas, acompanhamento de desempenho e gamificação com XP e níveis.
+- Autenticação, progresso por conta e administração de usuários e conteúdos.
+- Interface web responsiva e aplicativo Android em evolução.
+
+**Tecnologias:** TypeScript, React, Next.js/Vinext, Tailwind CSS, SQL, Cloudflare D1, Drizzle ORM e Capacitor.
+
+[Conheça o Aprova T.I.](https://aprovatiapp.com.br/)
+
+### AGEFIS + Educação — Dashboard executivo
+
+Painel para organizar e apresentar indicadores educacionais agregados no contexto da AGEFIS, em Fortaleza.
+
+- Consolidação de respostas, tratamento de duplicidades e padronização de instituições.
+- Gráficos, filtros, ranking de instituições e exportação CSV.
+- Interface responsiva e impressão/PDF.
+- Uso de dados agregados, com indicação das limitações de interpretação da fonte.
+
+**Tecnologias:** JavaScript, HTML, CSS e JSON.
+
+### BOT Fiscalize — Monitoramento de chamados
+
+Solução de apoio ao acompanhamento operacional de chamados, com aplicação desktop para Windows e versão móvel para Android.
+
+- Monitoramento periódico, identificação de novos chamados sem responsável e notificações.
+- Consulta de detalhes, coleta de relatórios e histórico local.
+- Geração de relatórios em PDF.
+
+**Tecnologias:** JavaScript, Node.js, Electron e SQLite; TypeScript, React Native e WebView na versão móvel.
+
+A execução em segundo plano no Android depende das permissões e restrições do sistema.
+
+### BOT-GRAN — Assistente de organização do Campus Virtual
+
+Assistente local para organizar a navegação e acompanhar pendências no ambiente virtual de estudos, disponível como userscript e extensão de navegador.
+
+- Mapeamento de aulas e atividades concluídas ou pendentes.
+- Navegação sequencial, fila persistente e retomada do processamento.
+- Histórico local, exportação CSV e diagnóstico JSON para manutenção de seletores.
+
+**Tecnologias:** JavaScript, DOM, localStorage, userscripts e extensões de navegador.
+
+Seu funcionamento depende da estrutura das páginas do portal.
+
+## Tecnologias presentes nos projetos
+
+| Área | Tecnologias |
+| --- | --- |
+| Desenvolvimento web | JavaScript, TypeScript, React, Next.js/Vinext, HTML e CSS |
+| Dados e persistência | SQL, SQLite, Cloudflare D1, Drizzle ORM, JSON e CSV |
+| Desktop e serviços | Node.js e Electron |
+| Mobile | Capacitor, React Native e WebView |
+| Automação no navegador | DOM, localStorage, userscripts e extensões |
+
+## Como desenvolvo
+
+- Entendo o problema e organizo os requisitos.
+- Evoluo as funcionalidades em etapas e valido os fluxos.
+- Escuto sugestões para melhorar a experiência de uso.
+- Documento decisões, aprendizados e limitações dos projetos.
+- Uso o Codex como apoio e reviso os resultados conforme o contexto de cada solução.
+
+Este perfil apresenta os projetos identificados nos meus registros de desenvolvimento. O código-fonte de cada aplicação ainda não está publicado neste perfil.
+
+[Perfil no GitHub](https://github.com/CKlisman) · [Aprova T.I.](https://aprovatiapp.com.br/)
