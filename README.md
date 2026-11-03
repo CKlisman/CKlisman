@@ -44,18 +44,6 @@ Solução de apoio ao acompanhamento operacional de chamados, com aplicação de
 
 A execução em segundo plano no Android depende das permissões e restrições do sistema.
 
-### BOT-GRAN — Assistente de organização do Campus Virtual
-
-Assistente local para organizar a navegação e acompanhar pendências no ambiente virtual de estudos, disponível como userscript e extensão de navegador.
-
-- Mapeamento de aulas e atividades concluídas ou pendentes.
-- Navegação sequencial, fila persistente e retomada do processamento.
-- Histórico local, exportação CSV e diagnóstico JSON para manutenção de seletores.
-
-**Tecnologias:** JavaScript, DOM, localStorage, userscripts e extensões de navegador.
-
-Seu funcionamento depende da estrutura das páginas do portal.
-
 ## Tecnologias presentes nos projetos
 
 | Área | Tecnologias |
@@ -64,7 +52,6 @@ Seu funcionamento depende da estrutura das páginas do portal.
 | Dados e persistência | SQL, SQLite, Cloudflare D1, Drizzle ORM, JSON e CSV |
 | Desktop e serviços | Node.js e Electron |
 | Mobile | Capacitor, React Native e WebView |
-| Automação no navegador | DOM, localStorage, userscripts e extensões |
 
 ## Como desenvolvo
 
